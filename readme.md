@@ -27,7 +27,7 @@
 
 > [Find more `ISSUE_TEMPLATE.md` files](https://github.com/search?utf8=%E2%9C%93&q=in%3Apath+issue_template.md&type=Code&ref=searchresults)
 
-## :rocket: Templates for Pull Requests
+## :rocket: Templates for Pull Requests 
 
 * [angular-translate/angular-translate](https://github.com/angular-translate/angular-translate/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
 * [appium/appium](https://github.com/appium/appium/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
